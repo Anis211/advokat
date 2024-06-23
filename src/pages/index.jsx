@@ -16,6 +16,7 @@ export default function Home() {
       <div className="pb-28" />
       <Hero />
       <About />
+      <div id="numbers" />
       <Work />
       <div id="team" />
       <Team />
